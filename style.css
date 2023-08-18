@@ -1,0 +1,19 @@
+.img{
+    text-align: center;
+    color: antiquewhite;
+    padding-top: 100px;
+}
+body{
+    background-image:url('veg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+}
+.p{
+   color: white;
+   text-align: center;
+   padding-top: 10px;
+}
+.main{
+    margin-left: 100px;
+}
